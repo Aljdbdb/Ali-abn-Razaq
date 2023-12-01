@@ -1,4 +1,4 @@
-# Ali-abn-Raza
+# Ali-abn-Razzaq
 import os, platform, time, sys
 
 try:
